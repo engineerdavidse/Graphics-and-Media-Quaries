@@ -1,0 +1,14 @@
+svg{
+  background-color:forestgreen
+}
+
+circle{
+  fill:blue;
+  stroke:red;
+  stroke= "5px";
+}
+
+body{
+  background: green url("https://i.scdn.co/image/ab6761610000e5ebadd503b411a712e277895c8a") 50% 0% no-repeat;
+  height: 100vh;
+}
